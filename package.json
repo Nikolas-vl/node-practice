@@ -6,6 +6,7 @@
   "scripts": {
     "generate": "node src/scripts/generateProducts.js",
     "add-one": "node src/scripts/getOneProduct.js ",
+    "get-all-products": "node src/scripts/getAllProducts.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
