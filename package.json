@@ -1,0 +1,26 @@
+{
+  "name": "practice",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nikolas-vl/node-practice.git"
+  },
+  "keywords": [],
+  "author": "Nikolas Vladymyrov <nikvv02@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nikolas-vl/node-practice/issues"
+  },
+  "homepage": "https://github.com/Nikolas-vl/node-practice#readme",
+  "description": "",
+  "devDependencies": {
+    "@faker-js/faker": "^9.8.0",
+    "eslint": "^9.29.0",
+    "globals": "^16.2.0"
+  }
+}
